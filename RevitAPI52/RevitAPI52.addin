@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPI52.dll"</Assembly>
+		<AddInId>BD1B53B6-F55B-497A-B5E1-EFDD0CAC4235</AddInId>
+		<FullClassName>RevitAPI52.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Приложение для Revit 5.2</Text>
+	</AddIn>
+</RevitAddIns>
